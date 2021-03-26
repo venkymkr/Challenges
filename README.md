@@ -1,4 +1,4 @@
-# KPMG
+# Challenges
 Three Challenges
 Challenge 1: 
 There are three layers in three tier architecture which are Presentation layer, Business logic layer and Data access layer. Apart from these three we can use a business object layer to implement property classes that can map our objects with the database or you can use entity framework.
